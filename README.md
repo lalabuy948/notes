@@ -1,5 +1,5 @@
 # Notes
 
-[Algorithms Python](Algorithms_Python.ipynb)
+[Algorithms Python](notebooks/Algorithms_Python.ipynb)
 
-[From projecteuler](Projecteuler.ipynb)
+[From projecteuler](notebookls/Projecteuler.ipynb)
